@@ -5,6 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
+      { title: '自用工具推荐', url: 'https://www.lhuafmaof.cn/article/df6345f2-1223-4143-ab68-96c60b03eee6' },
+      { title: '产品相关资源无门槛分享', url: 'https://www.lhuafmaof.cn/article/0997cb14-ac96-4abe-b660-f986fa5c1c21' }
   ],
 
   // 英雄区左右侧组件颠倒位置
