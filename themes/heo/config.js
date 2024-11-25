@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到我的博客', url: 'https://www.lhuafmaof.cn/' },
+    { title: '欢迎自取', url: 'https://www.lhuafmaof.cn/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -28,9 +28,9 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: '互联网观察', url: '/tag/互联网观察' },
+  HEO_HERO_CATEGORY_2: { title: 'GPT+AI+Notion', url: '/tag/GPT+AI+Notion' },
+  HEO_HERO_CATEGORY_3: { title: '低代码+自动化+B端', url: '/tag/低代码+自动化+B端' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -39,7 +39,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
+    '你好！我是令狐',
     '🔍 分享与热心帮助',
     '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
@@ -116,7 +116,7 @@ const CONFIG = {
     }
   ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
