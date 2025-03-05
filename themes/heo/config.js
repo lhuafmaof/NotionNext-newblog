@@ -21,7 +21,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享思考',
   HEO_HERO_TITLE_2: '与俯身实践',
-  HEO_HERO_TITLE_3: 'LHUAFMAOF.COM',
+  HEO_HERO_TITLE_3: 'LHUAFMAOF.CN',
   HEO_HERO_TITLE_4: '',
   HEO_HERO_TITLE_5: '西子湖畔 养意蓄力',
   HEO_HERO_TITLE_LINK: 'https://www.lhuafmaof.cn/',
@@ -55,9 +55,9 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: 'https://github.com/lhuafmaof',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
+  HEO_INFO_CARD_URL3: 'https://www.lhuafmaof.cn/',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
@@ -120,7 +120,7 @@ const CONFIG = {
     }
   ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
